@@ -39,6 +39,7 @@ class EmpSalary {
 public class EmpWage {
 
 	public static void main(String[] args) {
+		System.out.println("Welcome to Employee Wage ComputationProgram on Master Branch");
 		EmpSalary empWage = new EmpSalary();
 		empWage.empSalary();
 	}//main()
